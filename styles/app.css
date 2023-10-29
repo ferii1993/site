@@ -95,6 +95,7 @@ app css
     --primary-font : "Roboto", Arial , Helvetica, sans-serif;
     --primary-font-md : "Roboto Medium", Arial , Helvetica, sans-serif;
     --secondary-font : "Archivo Black", Arial , Helvetica, sans-serif;
+    overflow-x: hidden;
 }
 
 html{
